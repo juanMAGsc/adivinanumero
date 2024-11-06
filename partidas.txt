@@ -1,0 +1,1 @@
+El numero secreto es: 9653| Intento: 1, Numero: 1, Aciertos: 0, Coincidencia: 0 | Intento: 2, Numero: 2345, Aciertos: 0, Coincidencia: 2 | Intento: 3, Numero: 6789, Aciertos: 0, Coincidencia: 2 | Intento: 4, Numero: 2389, Aciertos: 0, Coincidencia: 2 | Intento: 5, Numero: 4567, Aciertos: 0, Coincidencia: 2 
